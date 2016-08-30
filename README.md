@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MAVROS
 ======
 
@@ -71,3 +72,7 @@ CI Statuses
 [libmc]: https://github.com/mavlink/mavros/blob/master/libmavconn/README.md
 [test]: https://github.com/mavlink/mavros/blob/master/test_mavros/README.md
 [inst]: https://github.com/mavlink/mavros/blob/master/mavros/README.md#installation
+=======
+# mavros
+Mavros untuk erlebrain
+>>>>>>> 508e33f7695aef2b62e6463ae23123764fa48225
